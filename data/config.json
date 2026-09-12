@@ -5,9 +5,9 @@
   "hero": {
     "titleMinPx": 44,
     "titleVw": 10,
-    "titleMaxPx": 128
+    "titleMaxPx": 100
   },
-  "copyright": "© {year} {name} · 保留所有权利",
+  "copyright": "© {year} {name} & llz121517 · 保留所有权利",
   "scroll": {
     "lerp": 0.1,
     "wheelMultiplier": 1,
