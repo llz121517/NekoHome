@@ -10,6 +10,7 @@
   "copyright": "© {year} {name} & llz121517 · 保留所有权利",
   "topLogo": "assets/logo.webp",
   "footerLogo": "assets/logo.webp",
+  "aboutImage": "assets/about.webp",
   "background": "assets/background.webp",
   "mask": {
     "hero": 0.2,
