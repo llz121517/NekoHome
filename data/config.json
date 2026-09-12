@@ -12,7 +12,7 @@
   "footerLogo": "assets/logo.webp",
   "background": "assets/background.webp",
   "mask": {
-    "hero": 0.7,
+    "hero": 0.2,
     "panel": 0.88
   },
   "scroll": {
