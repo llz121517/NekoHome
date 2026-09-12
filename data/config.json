@@ -8,8 +8,8 @@
     "titleMaxPx": 100
   },
   "copyright": "© {year} {name} & llz121517 · 保留所有权利",
-  "topLogo": "assets/logo.png",
-  "footerLogo": "assets/logo.png",
+  "topLogo": "assets/logo.webp",
+  "footerLogo": "assets/logo.webp",
   "scroll": {
     "lerp": 0.1,
     "wheelMultiplier": 1,
