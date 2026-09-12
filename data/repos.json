@@ -1,0 +1,8 @@
+[
+  "https://github.com/vuejs/core",
+  "https://github.com/microsoft/vscode",
+  "https://github.com/oven-sh/bun",
+  "https://github.com/tauri-apps/tauri",
+  "https://github.com/nodejs/node",
+  "https://github.com/flutter/flutter"
+]
