@@ -21,7 +21,7 @@
     "lerp": 0.1,
     "wheelMultiplier": 1,
     "anchorDuration": 1.15,
-    "snapMaxDist": 0.35,
+    "snapMaxDist": 0.2,
     "snapDelay": 150,
     "snapVelocity": 0.05,
     "snapDuration": 0.9
