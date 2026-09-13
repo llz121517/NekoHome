@@ -12,7 +12,7 @@
   "footerLogo": "assets/logo.webp",
   "aboutImage": "assets/about.webp",
   "background": "assets/background.webp",
-  "loading": false,
+  "loading": true,
   "mask": {
     "hero": 0.2,
     "panel": 0.7
@@ -21,7 +21,7 @@
     "lerp": 0.1,
     "wheelMultiplier": 1,
     "anchorDuration": 1.15,
-    "snapMaxDist": 0.5,
+    "snapMaxDist": 0.35,
     "snapDelay": 150,
     "snapVelocity": 0.05,
     "snapDuration": 0.9
