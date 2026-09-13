@@ -13,17 +13,13 @@
   "aboutImage": "assets/about.webp",
   "background": "assets/background.webp",
   "mask": {
-    "hero": 0.2,
+    "hero": 0.35,
     "panel": 0.7
   },
   "scroll": {
     "lerp": 0.1,
     "wheelMultiplier": 1,
-    "anchorDuration": 1.15,
-    "snapMaxDist": 0.2,
-    "snapDelay": 150,
-    "snapVelocity": 0.05,
-    "snapDuration": 0.9
+    "anchorDuration": 1.15
   },
   "qqGroup": "1106960605",
   "qqJoinUrl": "https://qm.qq.com/q/WcmcHmxMey",
@@ -40,9 +36,9 @@
     "title": "加入我们",
     "description": "无论你擅长写代码、做设计还是写文档，都欢迎进群坐坐——聊聊想法、提提意见，或者一起做点好玩的东西。",
     "cards": [
-      { "icon": "chat", "title": "即时交流", "text": "灌水摸鱼、答疑互助，群里随时聊" },
-      { "icon": "code", "title": "参与开发", "text": "提 PR、报 Bug，一起打磨作品" },
-      { "icon": "eye", "title": "围观学习", "text": "潜水围观也不错，先混个脸熟" }
+      { "title": "即时交流", "text": "灌水摸鱼、答疑互助，群里随时聊" },
+      { "title": "参与开发", "text": "提 PR、报 Bug，一起打磨作品" },
+      { "title": "围观学习", "text": "潜水围观也不错，先混个脸熟" }
     ],
     "qqLabel": "QQ 群号",
     "copyButton": "复制群号",
