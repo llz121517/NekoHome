@@ -12,7 +12,6 @@
   "footerLogo": "assets/logo.webp",
   "aboutImage": "assets/about.webp",
   "background": "assets/background.webp",
-  "loading": false,
   "mask": {
     "hero": 0.2,
     "panel": 0.7
